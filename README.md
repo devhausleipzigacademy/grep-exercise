@@ -1,6 +1,14 @@
 ### Exercise: Regular Expressions
 
-Given is a text file. It is the log file from a servers. A log file usually contains info about all kinds of activity on a server.
+Before you do the exercises from this README, take a look at this website:
+
+[Regular Expressions](https://regexone.com)
+
+Given is a text file.
+
+It is the log file from a servers.
+
+A log file usually contains info about all kinds of activity on a server.
 
 Your task is to extract information from the file using `grep` in the command line.
 
