@@ -1,8 +1,10 @@
-### Exercise: Regular Expressions
+### Introduction: Regular Expressions
 
 Before you do the exercises from this README, take a look at this website:
 
 [Regular Expressions](https://regexone.com)
+
+### Log File Exercise
 
 Given is a text file.
 
