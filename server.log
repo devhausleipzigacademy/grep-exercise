@@ -1,0 +1,20 @@
+[2024-04-01 12:01:05] INFO: User login successful. Username: johndoe
+[2024-04-01 12:03:22] WARNING: Failed login attempt. IP: 192.168.1.100
+[2024-04-01 12:05:45] ERROR: Database connection failed.
+[2024-04-01 12:07:30] INFO: User logout. Username: johndoe
+[2024-04-01 12:10:15] INFO: New user registered. Email: jane@example.com
+[2024-04-01 12:15:00] WARNING: Access denied. IP: 192.168.1.101
+[2024-04-01 12:20:30] ERROR: File not found. URL: http://example.com/page.html
+[2024-04-01 12:25:18] INFO: Request received from IP: 203.0.113.45
+[2024-04-01 12:30:05] WARNING: Invalid user-agent detected.
+[2024-04-01 12:35:10] ERROR: Internal server error. User: johndoe
+[2024-04-02 08:30:15] INFO: Request received from IP: 192.168.0.1
+[2024-04-02 08:35:22] ERROR: Authentication failed. User: alice
+[2024-04-02 08:40:10] WARNING: Suspicious activity detected. IP: 10.0.0.2
+[2024-04-02 08:45:05] INFO: Database query executed successfully.
+[2024-04-02 08:50:30] INFO: User login successful. Username: bob
+[2024-04-02 08:55:18] ERROR: File not found. URL: http://example.com/file.html
+[2024-04-02 09:00:02] WARNING: Access denied. IP: 172.16.0.100
+[2024-04-02 09:05:45] INFO: New user registered. Email: carol@example.com
+[2024-04-02 09:10:20] ERROR: Connection timeout. Server: 203.0.113.45
+[2024-04-02 09:15:30] INFO: User logout. Username: alice
